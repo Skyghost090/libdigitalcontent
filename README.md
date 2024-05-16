@@ -1,11 +1,5 @@
 # Libdigitalcontent
 
-## How to build
-
-* g++ deamon.cpp -o deamon
-* 'mkdir /usr/share/libdigitalcontent' and move all files on this folder
-* if you to want a config this libary just import libdigitalcontent.cpp and run the setTime(time in hours uint_8) function
-
 ## Dangers of lack of digital health
 
 ### Delayed Diagnosis and Treatment:
