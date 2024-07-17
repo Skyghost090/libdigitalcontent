@@ -17,3 +17,6 @@ Risk of Medical Errors:
 Difficulty in Self-Care:
 
 * The lack of health monitoring apps makes self-care and the adoption of healthy habits difficult, affecting long-term health qualities.
+
+## Building
+* Only run "Make" command
