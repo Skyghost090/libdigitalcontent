@@ -20,3 +20,4 @@ Difficulty in Self-Care:
 
 ## Building
 * Only run "Make" command
+* To open app run ./main.py
